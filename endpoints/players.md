@@ -1,4 +1,4 @@
-#Get Player Friends
+# Get Player Friends
 **GET** /players/{{username}}/friends
 
 Returns an array of usernames representing all the friends of a particular user
