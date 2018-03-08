@@ -1,0 +1,1 @@
+Theoretical outline for the Paladins API by HiRez in order to improve it's current state.
